@@ -48,7 +48,7 @@ const CHAIN = 'polygon'; // only rinkeby or polygon
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
 const CONTRACT_NAME = 'NORDSKEN';
 const CONTRACT_SYMBOL = 'ND';
-const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
+const METADATA_UPDATABLE = false; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0xbfA684Fbd8b7387B3F787e4B6E0B00aBa5680198';
 const TREASURY_ADDRESS = '0xbfA684Fbd8b7387B3F787e4B6E0B00aBa5680198';
 const MAX_SUPPLY = 5000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
