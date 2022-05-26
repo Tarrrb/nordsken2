@@ -1,18 +1,18 @@
 /* FONTS */
 
-@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Permanent+Marker&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
 
 /* GLOBAL STYLES */
 
 :root {
   --font-primary: "Permanent Marker", cursive;
-  --font-secondary: "Lobster", cursive;
-  --font-code: "Lobster", monospace;
+  --font-secondary: "Permanent Marker", cursive;
+  --font-code: "Permanent Marker", monospace;
   --bg-color: #134eb9;
   --bg-color-transparent: #00163f80;
   --font-color: #000000;
-  --btn-bg-color: #0a0a0a;
-  --accent-color: #5e5e5e;
+  --btn-bg-color: #5e5e5e;
+  --accent-color: #0000;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
