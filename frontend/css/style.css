@@ -34,7 +34,7 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  max-width: 512px;
+  max-width: 960px;
   margin: 0 auto;
   padding: 1rem 2rem;
   justify-content: center;
@@ -328,7 +328,7 @@ section {
 }
 
 .splide__slide img {
-  width: 100%;
+  width: 50%;
 }
 
 /* SPINNER */
@@ -336,7 +336,7 @@ section {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%) scale(2);
+  transform: translate(-50%, -50%) scale(3);
 }
 
 /* MEDIA QUERIES */
