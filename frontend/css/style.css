@@ -7,11 +7,11 @@
 :root {
   --font-primary: "Permanent Marker", cursive;
   --font-secondary: "Permanent Marker", cursive;
-  --font-code: "Permanent Marker", monospace;
+  --font-code: "Permanent Marker", cursive;
   --bg-color: #134eb9;
   --bg-color-transparent: #00163f80;
   --font-color: #000000;
-  --btn-bg-color: #5e5e5e;
+  --btn-bg-color: #fcf8f8;
   --accent-color: #0000;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
