@@ -2,7 +2,7 @@ const contractAddress = "0x288493A77903199d5089751C84726575F35c893e"; //Replace 
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Välkommen till Mintkulan!";
-const welcome_h2 = "Koppla MetaMask to Get Started";
+const welcome_h2 = "Koppla MetaMask för att Delta";
 const welcome_p = 'Välkommen till Blockmarknadens NORDSKEN NFT LOTTERI';
 const h1_presale_coming_soon = "https://Blockmarknaden.se";
 const h1_presale_mint = "Öppnar inom kort!";
@@ -13,7 +13,7 @@ const p_presale_coming_soon = "Snart startar vår Presale/kickstarter";
 const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
 const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
-const p_public_mint = "No whitelist needed. Public minting is now open! 🎉";
+const p_public_mint = "Minta din första NFT gratis, var med i NORDSKENS lotteriet";
 const button_presale_coming_soon = "Get on the Whitelist";
 const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
