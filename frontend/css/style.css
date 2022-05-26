@@ -9,8 +9,8 @@
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", serif;
   --bg-color: #00163f;
-  --bg-color-transparent: #00163f80;
-  --font-color: #ffffff;
+  --bg-color-transparent: #ffffffee;
+  --font-color: #1a1919;
   --btn-bg-color: #ffffff;
   --accent-color: #be7efe;
   --header-shadow: var(--accent-color) 0px 0px 5px;
@@ -37,7 +37,7 @@ body {
   flex-direction: column;
   max-width: 960px;
   margin: 0 auto;
-  padding: 0rem 0rem;
+  padding: 50rem 50rem;
   justify-content: center;
   overflow: hidden;
 }
