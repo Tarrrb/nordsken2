@@ -5,8 +5,8 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Lobster", sans-serif;
-  --font-secondary: "Lobster", serif;
+  --font-primary: "Lobster", cursive;
+  --font-secondary: "Permanent Marker", cursive;
   --font-code: "Lobster", monospace;
   --bg-color: #134eb9;
   --bg-color-transparent: #00163f80;
