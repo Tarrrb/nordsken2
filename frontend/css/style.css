@@ -7,7 +7,7 @@
 :root {
   --font-primary: "Poppins", sans-serif;
   --font-secondary: "Arvo", serif;
-  --font-code: "Roboto", monospace;
+  --font-code: "Roboto", serif;
   --bg-color: #00163f;
   --bg-color-transparent: #00163f80;
   --font-color: #ffffff;
