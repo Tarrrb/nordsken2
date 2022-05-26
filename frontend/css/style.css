@@ -317,7 +317,7 @@ section {
 /* SLIDDER */
 
 .splide {
-  position: absolute;
+  position: var(--bg-color-transparent);
   top: 1px;
   left: 5rem;
   z-index: -1;
@@ -329,7 +329,7 @@ section {
 }
 
 .splide__slide img {
-  width: 80%;
+  width: 1%;
 }
 
 /* SPINNER */
